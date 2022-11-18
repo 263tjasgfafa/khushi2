@@ -397,10 +397,6 @@ display: none;
     .row {
         flex-direction: column;
     }
-    .sub-header{
-        height: 118vh;
-    }
-    
 }
 .about-col1{
     flex-basis: 48%;
